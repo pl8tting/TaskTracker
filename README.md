@@ -1,9 +1,13 @@
+
 # TaskTracker
 
 A desktop task management application built with Python and Tkinter. The application allows users to organize tasks into categories, move tasks between categories, and save their tasks locally between sessions.
 
 The interface is styled using the [Sun Valley ttk theme](https://github.com/rdbende/Sun-Valley-ttk-theme) by rdbende.
- 
+
+## Screenshot
+<img width="447" height="325" alt="Screenshot 2026-09-11 211729" src="https://github.com/user-attachments/assets/c64502a3-7ada-45fd-8927-d6d005cd410a" />
+ 
 ## Features
 
 - Add new tasks
