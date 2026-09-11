@@ -6,6 +6,7 @@ import json
 import os
 
 root = tk.Tk()
+root.title("TaskTracker - Daily Tasks")
 root.geometry('600x400')
 pywinstyles.apply_style(root,'mica')
 
